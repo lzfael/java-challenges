@@ -10,27 +10,27 @@
 
 **Um repositório dedicado ao aprendizado e documentação de desafios Java** 🚀
 
-[![GitHub stars](https://img.shields.io/github/stars/lzfael/java-challenges?style=social)](https://github.com/lzfael/java-challenges)
+
 
 </div>
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Repositório
 
 Este repositório foi criado com o objetivo de **documentar e organizar** minha jornada de aprendizado na linguagem Java. Aqui você encontrará uma coleção de desafios, exercícios e projetos práticos que demonstram conceitos fundamentais e avançados da programação Java.
 
-### 🎯 Objetivos
+### Objetivos
 
-- 📚 **Aprender** conceitos fundamentais e avançados de Java
-- 💡 **Praticar** através de desafios e exercícios variados
-- 📖 **Documentar** o processo de aprendizado
-- 🔄 **Revisar** e aprimorar soluções constantemente
-- 🤝 **Compartilhar** conhecimento com a comunidade
+-  **Aprender** conceitos fundamentais e avançados de Java
+-  **Praticar** através de desafios e exercícios variados
+-  **Documentar** o processo de aprendizado
+-  **Revisar** e aprimorar soluções constantemente
+-  **Compartilhar** conhecimento com a comunidade
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 Para executar os projetos e desafios deste repositório, siga os passos abaixo:
 
@@ -63,11 +63,11 @@ Contribuições são muito bem-vindas! Se você tiver sugestões, melhorias ou q
 5.  **Envie para o seu Fork** (`git push origin feature/minha-nova-feature`).
 6.  **Abra um Pull Request** para a branch `main` deste repositório.
 
-## 📄 Licença
+##  Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 📧 Contato
+## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
