@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Contribuições-Bem%20vindas-brightgreen?style=for-the-badge)
 
-**Um repositório dedicado ao aprendizado e documentação de desafios Java** 🚀
+**Um repositório dedicado ao aprendizado e documentação de desafios Java** 
 
 
 
